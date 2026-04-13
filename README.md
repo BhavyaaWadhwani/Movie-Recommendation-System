@@ -79,5 +79,3 @@ Contributions to the MoodFlix project are welcome! To contribute:
 ## Further Development
 
 This project is currently configured to recognize a limited range of moods and movie recommendations. Future updates will aim to expand mood detection capabilities, incorporate a broader range of movies, and enhance user interactivity for a more personalized experience.
-
-## Contact Information
